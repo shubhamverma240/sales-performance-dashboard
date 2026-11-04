@@ -1,2 +1,13 @@
-# sales-performance-dashboard
-An end-to-end sales analysis project: raw data was cleaned in Excel, set up with SQL, and visualized in an interactive Power BI dashboard to track revenue, top products, and regional performance.
+# Sales Performance Analysis & Reporting Dashboard
+
+Tools: Excel, SQL, Power BI
+
+## Project Files
+- sales_data_raw.csv / .xlsx: original dataset
+- clean_data.xlsx: cleaned data
+- sales_setup.sql: SQL setup/queries
+- sales_dashboard.pbix: Power BI dashboard
+- Sales_Performance_Analysis___Reporting_Dashboard.pptx: project presentation
+
+## Key Insights
+(add 3-4 findings from your dashboard here)
